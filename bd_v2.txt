@@ -1,4 +1,4 @@
--- Base de datos LP2 Eventos - Versión sin ALTER
+    -- Base de datos LP2 Eventos - Versión sin ALTER
 DROP DATABASE IF EXISTS lp2_eventos02;
 CREATE DATABASE lp2_eventos02;
 USE lp2_eventos02;

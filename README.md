@@ -4,6 +4,12 @@ La **Plataforma Web de Gestión de Eventos** es un sistema desarrollado en **PHP
 Permite registrar proveedores (catering, música, decoración, locales, etc.), gestionar información y facilitar la interacción entre clientes y proveedores.
 
 ---
+### INTEGRANTES DEL PROYECTO 
+- TRUJILLO ÁVILA MARCEL ALEXANDER JAVIER
+- ROJAS MALDONADO PERCY
+- HUANCAYA RECINES ERICSSON
+- VARGAS ATACHAGUA JHEAN POOL 
+- JHEAN CHAVEZ FIGUEREDO GROVER
 
 ## 🚀 Funcionalidades Principales
 
